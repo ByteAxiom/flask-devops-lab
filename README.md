@@ -1,4 +1,4 @@
-# Flask DevOps Lab
+# Flask DevOps Lab - (Version B)
 
 Flask app for practicing Git, GitHub, and Docker
 
